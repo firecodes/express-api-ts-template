@@ -1,2 +1,3 @@
-# express-api-ts-template
-express api ts template
+# Express API  Typescript template
+
+How to use this template:
